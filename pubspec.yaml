@@ -1,0 +1,35 @@
+name: sports_fest_app
+description: A Flutter app for a sports event with a sign-up page.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  google_fonts: ^5.0.0
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: VT323
+      fonts:
+        - asset: assets/text/VT323.ttf
+
+  assets:
+    - assets/images/background_image.png
+    - assets/images/logo_image.png
