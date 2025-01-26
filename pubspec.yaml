@@ -33,3 +33,9 @@ flutter:
   assets:
     - assets/images/background_image.png
     - assets/images/logo_image.png
+    - assets/images/CRICKET.jpeg
+    - assets/images/TENNIS.jpeg
+    - assets/images/FOOTBALL.jpeg
+
+
+
